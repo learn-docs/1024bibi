@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <script src="echarts.js"></script>
+        <script src='echarts-wordcloud.js'></script>
+    </head>
+    <body>
+        <style>
+            html, body{
+                width: 100%;
+                height: 100%;
+                margin: 0;
+            }
+            #main{
+                width: 600px;
+                height: 500px;
+                background: rgba(70, 120, 200, 0.2)
+            }
+        </style>
+        <div id='main'></div>
+        <script>
+            var chart = echarts.init(document.getElementById('main'));
+ 
+            var option = {
+                tooltip: {},
+                series: [ {
+                    type: 'wordCloud',
+                    gridSize: 2,
+                    sizeRange: [12, 50],
+                    rotationRange: [-90, 90],
+                    shape: 'pentagon',
+                    width: 600,
+                    height: 400, 
+                    drawOutOfBound: true,
+                    textStyle: {
+                        normal: {
+                            color: function () {
+                                return 'rgb(' + [
+                                    Math.round(Math.random() * 255),
+                                    Math.round(Math.random() * 255),
+                                    Math.round(Math.random() * 255)
+                                ].join(',') + ')';
+                            },
+                        },
+                        emphasis: {
+                            shadowBlur: 10,
+                            shadowColor: '#333'
+                        }
+                    },
+                    //数据自己加
+                    data: [
+                        {
+                            name: 'Sam S Club',
+                            value: 10000,
+                            // textStyle: {
+                            //     normal: {
+                            //         color: 'black'
+                            //     },
+                            //     emphasis: {
+                            //         color: 'red'
+                            //     }
+                            // }
+                        },
+                        {
+                            name: 'Macys',
+                            value: 6181
+                        },
+                        {
+                            name: 'Amy Schumer',
+                            value: 4386
+                        },
+                    ]
+                } ]
+            };
+ 
+            chart.setOption(option);
+ 
+            window.onresize = chart.resize;
+        </script>
+    </body>
+</html>
