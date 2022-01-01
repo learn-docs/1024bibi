@@ -1,6 +1,6 @@
 # 1024bibi.com
 
-<img src="../1641058147300.jpg" style="display: flex; margin: auto; width: 80%;"/>
+<img src="./1641058147300.jpg" style="display: flex; margin: auto; width: 80%;"/>
 
 > 点击勘误[issues](https://github.com/webVueBlog/1024bibi/issues)，哪吒感谢大家的阅读
 
