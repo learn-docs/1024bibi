@@ -93,6 +93,25 @@ This package has installed:
 Make sure that /usr/local/bin is in your $PATH.
 
 sudo npm install -g n
+
+
+npm prefix --global  
+/usr/local/bin
+
+$ npm prefix --global
+/usr/local
+$ sudo npm install -g n
+/usr/local/bin/n -> /usr/local/lib/node_modules/n/bin/n
++ n@6.0.1
+$ echo $PATH
+/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+$ command -v n
+/usr/local/bin/n
+$ n --version
+6.0.1
+
+/opt/homebrew/bin/node
+/opt/homebrew/bin/npm
 ```
 
 ## hexo 三连
