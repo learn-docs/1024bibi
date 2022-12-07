@@ -3,8 +3,8 @@ Thumbs.db
 db.json
 *.log
 node_modules/
+themes/
 public/
 .deploy*/
-/themes/*
 yarn.lock
 pack-lock.json
