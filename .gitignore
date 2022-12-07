@@ -5,6 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
-themes
+/themes/*
 yarn.lock
 pack-lock.json
