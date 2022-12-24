@@ -676,12 +676,12 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-blog
+      icon: fa fa-free-code-camp
       text: 达达前端博客
       link: http://www.dadaqianduan.cn/
   card_announcement:
     enable: true
-    content: 欢迎来到我的小站，小伙伴们可以进 QQ 群（634382181）交流哦！欢迎大家关注哦😉！
+    content: 欢迎来到我的小站，小伙伴们可以vx（xiaoda0423）交流哦！欢迎大家关注哦😉！
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

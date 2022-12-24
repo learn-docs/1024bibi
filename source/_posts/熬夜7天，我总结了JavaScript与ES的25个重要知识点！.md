@@ -5,7 +5,7 @@ tags:
 	- JavaScript
 	- ES
 categories:
-	- 前端
+	- 掘金
 keywords: "JavaScript"
 description: "熬夜7天，我总结了JavaScript与ES的25个重要知识点!"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

@@ -4,7 +4,7 @@ date: 2020-03-06 22:45:52
 tags:
 	- HTML5
 categories:
-	- 前端
+	- 掘金
 keywords: "HTML5,前端"
 description: "学习《HTML5与CSS3权威指南》这本书很不错，学完之后我颇有感触，觉得web的世界开明了许多。这本书是需要有一定基础的web前端开发工程师。"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

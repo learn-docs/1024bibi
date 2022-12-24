@@ -8,9 +8,7 @@ tags:
 	- DNS
 	- TCP
 categories:
-	- 计算机网络
-	- 前端
-	- 网络原理
+	- 掘金
 keywords: "HTTP,TCP"
 description: "HTTP/HTTPS/HTTP2/DNS/TCP/经典题"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

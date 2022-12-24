@@ -5,8 +5,7 @@ tags:
 	- HTTP
 	- ECMAScript
 categories:
-	- 前端
-	- 网络原理
+	- 掘金
 keywords: "HTTP,ECMAScript"
 description: "挑战前端知识点HTTP/ECMAScript"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

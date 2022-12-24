@@ -4,7 +4,7 @@ date: 2020-00-19 13:46:40
 tags:
 	- ECMAScript6
 categories:
-	- 前端
+	- 掘金
 keywords: "前端,ES6,面试"
 description: "了解什么是ECMAScript概述，了解Symbol数据类型，掌握let和const，以及变量的解构赋值，Set和Map的原理。"
 cover: https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/fffd3f7896eea2a4739ca66900670345.jpg

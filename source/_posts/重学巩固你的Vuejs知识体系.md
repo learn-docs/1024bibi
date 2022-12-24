@@ -4,10 +4,10 @@ date: 2020-04-07 23:28:09
 tags:
 	- Vue
 categories:
-	- 前端
+	- 掘金
 keywords: "Vue"
 description: "学巩固你的Vuejs知识体系"
-cover:
+cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
 top_img:
 ---
 ## 前沿

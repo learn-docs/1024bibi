@@ -5,8 +5,7 @@ tags:
 	- JavaScript
 	- 面试
 categories:
-	- JavaScript
-	- 前端
+	- 掘金
 keywords: "JS葵花宝典秘籍笔记，为你保驾护航金三银四"
 description: "JS葵花宝典秘籍笔记，为你保驾护航金三银四"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a2df0d96e70426999600f22db443b2d~tplv-k3u1fbpfcp-watermark.image

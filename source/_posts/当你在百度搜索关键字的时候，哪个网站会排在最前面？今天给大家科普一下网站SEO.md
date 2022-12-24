@@ -4,8 +4,7 @@ date: 2020-09-30 23:49:46
 tags:
 	- SEO
 categories:
-	- 前端
-	- SEO
+	- 掘金
 keywords: "SEO"
 description: "当你在百度搜索关键字的时候，哪个网站会排在最前面？今天给大家科普一下网站SEO"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

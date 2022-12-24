@@ -5,9 +5,7 @@ tags:
 	- Chrome
 	- HTTP
 categories:
-	- 前端
-	- Chrome
-	- 网络原理
+	- 掘金
 keywords: "HTTP,Chrome"
 description: "面试官一上来就问我Chrome底层原理和HTTP协议"
 cover:

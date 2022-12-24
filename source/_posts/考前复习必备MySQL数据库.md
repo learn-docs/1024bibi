@@ -4,7 +4,7 @@ date: 2020-02-23 18:27:08
 tags:
 	- MySQL
 categories:
-	- 前端
+	- 掘金
 keywords: "MySQL,数据库"
 description: "MySQL是一个关系型数据库管理系统,在web应用方面，MySQL是最好的关系型数据库管理系统应用软件之一。"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

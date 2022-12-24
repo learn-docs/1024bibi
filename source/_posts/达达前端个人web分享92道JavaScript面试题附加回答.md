@@ -5,7 +5,7 @@ tags:
 	- Web
 	- JavaScript
 categories:
-	- 前端
+	- 掘金
 keywords: "Web,JavaScript"
 description: "达达前端个人web分享92道JavaScript面试题附加回答"
 cover:

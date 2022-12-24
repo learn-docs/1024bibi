@@ -5,8 +5,7 @@ tags:
 	- LeetCode
 	- 算法
 categories:
-	- LeetCode
-	- 前端
+	- 掘金
 keywords: "LeetCode"
 description: "最大子序和,JavaScript数据结构与算法（数组）"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

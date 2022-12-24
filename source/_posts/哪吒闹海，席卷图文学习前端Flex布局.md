@@ -4,7 +4,7 @@ date: 2021-01-11 23:16:56
 tags:
 	- Flex
 categories:
-	- 前端
+	- 掘金
 keywords: "Flex"
 description: "席卷图文学习前端Flex布局"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

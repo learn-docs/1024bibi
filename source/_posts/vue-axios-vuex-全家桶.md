@@ -6,9 +6,7 @@ tags:
 	- axios
 	- vuex
 categories:
-	- Vue
-	- axios
-	- vuex
+	- 掘金
 keywords: "vue,axios,vuex"
 description: "vue,vuex,axios"
 cover: https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7dae4478722a4703a8e9e07cd80328d4~tplv-k3u1fbpfcp-watermark.image

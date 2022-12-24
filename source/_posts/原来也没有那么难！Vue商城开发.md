@@ -5,7 +5,7 @@ tags:
 	- Vue
 	- 商城
 categories:
-	- 前端
+	- 掘金
 keywords: "Vue"
 description: "原来也没有那么难！Vue商城开发"
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image

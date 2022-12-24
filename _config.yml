@@ -5,22 +5,11 @@
 # Site
 title: Jeskson网站
 subtitle: '如果你所学的东西 处于喜欢 才会有强大的动力支撑。'
-description: '前端Vue、JavaScript、数据结构与算法、实战演练、Node全栈一线技术，紧跟业界发展步伐。'
+description: '个人IP：算法猫叔，达达前端，我是哪吒等，数据结构与算法、实战演练、Node全栈一线技术，紧跟业界发展步伐。'
 keywords: Vue,JavaScript,HTML,HTML5,CSS,CSS3,Node,JQuery
 author: Jeskson
 language: zh-CN
 timezone: ''
-
-# search:
-#   path: search.xml
-#   field: post
-#   content: true
-
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
 
 sitemap:
     path: sitemap.xml
@@ -106,6 +95,27 @@ artitalk:
   js:
   option:
   front_matter:
+
+# Favicon（網站圖標）
+favicon: /img/favicon.png
+
+# Local search
+local_search:
+  enable: true
+  labels:
+    input_placeholder: 搜索文章
+    hits_empty: "没找到: ${query} 相关内容捏" # 如果没有查到内容相关内容显示
+
+search:
+  path: search.xml
+  field: post
+  content: true
+
+# search:
+#   path: search.xml
+#   field: post
+#   format: html
+#   limit: 10000
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

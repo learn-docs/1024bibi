@@ -6,10 +6,9 @@ tags:
 	- 链表
 	- 数据结构
 categories:
-	- 数据结构
-	- 前端
+	- 掘金
 keywords: "JavaScript,链表,数据结构"
-description:
+description: “javascript”
 cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
 top_img:
 ---

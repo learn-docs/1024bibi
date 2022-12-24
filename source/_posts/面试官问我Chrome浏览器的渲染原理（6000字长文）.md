@@ -5,9 +5,7 @@ tags:
 	- Chrome
 	- 浏览器
 categories:
-	- 前端
-	- Chrome
-	- 浏览器
+	- 掘金
 keywords: "Chrome"
 description: "面试官问我Chrome浏览器的渲染原理"
 cover:

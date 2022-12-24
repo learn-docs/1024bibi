@@ -5,7 +5,7 @@ tags:
 	- JavaScript
 	- 面试
 categories:
-	- 前端
+	- 掘金
 keywords: "JavaScript,面试"
 description: "一次BAT一线互联网公司前端JavaScript面试"
 cover:
