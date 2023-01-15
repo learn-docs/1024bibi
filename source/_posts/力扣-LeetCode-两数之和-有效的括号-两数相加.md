@@ -1,14 +1,16 @@
 ---
 title: '力扣 (LeetCode)-两数之和,有效的括号,两数相加'
-date: 2021-03-02 00:32:52
 tags:
-	- LeetCode
-	- 算法
+  - LeetCode
+  - 算法
 categories:
-	- 掘金
-keywords: "LeetCode"
-description: "两数之和,有效的括号,两数相加"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: LeetCode
+description: '两数之和,有效的括号,两数相加'
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: fd2c5205
+date: 2021-03-02 00:32:52
 top_img:
 ---
 

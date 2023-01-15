@@ -1,13 +1,15 @@
 ---
 title: 前端开发JavaScript-巩固你的JavaScript知识体系
-date: 2020-10-20 23:30:08
 tags:
-	- JavaScript
+  - JavaScript
 categories:
-	- 掘金
-keywords: "JavaScript"
-description: "巩固你的JavaScript知识体系"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: JavaScript
+description: 巩固你的JavaScript知识体系
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 9f2a5042
+date: 2020-10-20 23:30:08
 top_img:
 ---
 ### JavaScript基础语法

@@ -1,13 +1,15 @@
 ---
 title: 什么是MySQL数据库？看这一篇干货文章就够了！
-date: 2020-09-17 23:36:38
 tags:
-	- MySQL
+  - MySQL
 categories:
-	- 掘金
-keywords: "MySQL"
-description: "什么是MySQL数据库？看这一篇干货文章就够了！"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: MySQL
+description: 什么是MySQL数据库？看这一篇干货文章就够了！
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: e9707344
+date: 2020-09-17 23:36:38
 top_img:
 ---
 

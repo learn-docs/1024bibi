@@ -1,16 +1,18 @@
 ---
 title: 前端冲刺必备指南-this/call/apply/bind（万字长文）
-date: 2020-06-11 23:44:56
 tags:
-	- this
-	- call
-	- apply
-	- bind
+  - this
+  - call
+  - apply
+  - bind
 categories:
-	- 掘金
-keywords: "this,call,apply,bind"
-description: "前端冲刺必备指南-this/call/apply/bind"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: 'this,call,apply,bind'
+description: 前端冲刺必备指南-this/call/apply/bind
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 44c711dc
+date: 2020-06-11 23:44:56
 top_img:
 ---
 ## 前言

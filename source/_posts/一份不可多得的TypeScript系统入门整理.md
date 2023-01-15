@@ -1,13 +1,15 @@
 ---
 title: 一份不可多得的TypeScript系统入门整理
-date: 2021-04-18 19:19:46
 tags:
-	- TypeScript
+  - TypeScript
 categories:
-	- 掘金
-keywords: "一份不可多得的TypeScript系统入门整理"
-description: "一份不可多得的TypeScript系统入门整理"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a7c636b26ba045fcad1abe508bf6f390~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: 一份不可多得的TypeScript系统入门整理
+description: 一份不可多得的TypeScript系统入门整理
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a7c636b26ba045fcad1abe508bf6f390~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 51ba5505
+date: 2021-04-18 19:19:46
 top_img:
 ---
 ---

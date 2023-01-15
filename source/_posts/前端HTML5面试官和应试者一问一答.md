@@ -1,14 +1,16 @@
 ---
 title: 前端HTML5面试官和应试者一问一答
-date: 2021-01-13 23:13:31
 tags:
-	- HTML5
+  - HTML5
 categories:
-	- 掘金
-keywords: "HTML5"
-description: "前端HTML5面试官和应试者一问一答"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
-top_img: 
+  - 掘金
+keywords: HTML5
+description: 前端HTML5面试官和应试者一问一答
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 9d099dee
+date: 2021-01-13 23:13:31
+top_img:
 ---
 
 ## 前言

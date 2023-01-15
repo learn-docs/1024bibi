@@ -1,14 +1,16 @@
 ---
 title: 挑战前端知识点HTTP/ECMAScript
-date: 2021-01-17 23:06:29
 tags:
-	- HTTP
-	- ECMAScript
+  - HTTP
+  - ECMAScript
 categories:
-	- 掘金
-keywords: "HTTP,ECMAScript"
-description: "挑战前端知识点HTTP/ECMAScript"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: 'HTTP,ECMAScript'
+description: 挑战前端知识点HTTP/ECMAScript
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: b0b76706
+date: 2021-01-17 23:06:29
 top_img:
 ---
 

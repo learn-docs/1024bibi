@@ -1,15 +1,17 @@
 ---
 title: vue-axios-vuex-全家桶
-date: 2021-09-01 21:04:53
 tags:
-	- Vue
-	- axios
-	- vuex
+  - Vue
+  - axios
+  - vuex
 categories:
-	- 掘金
-keywords: "vue,axios,vuex"
-description: "vue,vuex,axios"
-cover: https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7dae4478722a4703a8e9e07cd80328d4~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: 'vue,axios,vuex'
+description: 'vue,vuex,axios'
+cover: >-
+  https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7dae4478722a4703a8e9e07cd80328d4~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 616516a3
+date: 2021-09-01 21:04:53
 top_img:
 ---
 

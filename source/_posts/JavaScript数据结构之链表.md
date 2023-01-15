@@ -1,15 +1,17 @@
 ---
 title: JavaScript数据结构之链表
-date: 2021-03-09 00:49:36
 tags:
-	- JavaScript
-	- 链表
-	- 数据结构
+  - JavaScript
+  - 链表
+  - 数据结构
 categories:
-	- 掘金
-keywords: "JavaScript,链表,数据结构"
-description: "JavaScript,链表,数据结构"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: 'JavaScript,链表,数据结构'
+description: 'JavaScript,链表,数据结构'
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 2b901381
+date: 2021-03-09 00:49:36
 top_img:
 ---
 

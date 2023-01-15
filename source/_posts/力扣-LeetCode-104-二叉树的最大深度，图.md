@@ -1,14 +1,16 @@
 ---
 title: 力扣 (LeetCode)-104. 二叉树的最大深度，图
-date: 2021-03-13 00:50:49
 tags:
-	- LeetCode
-	- 算法
+  - LeetCode
+  - 算法
 categories:
-	- 掘金
-keywords: "LeetCode"
+  - 掘金
+keywords: LeetCode
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: fab15643
+date: 2021-03-13 00:50:49
 description:
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
 top_img:
 ---
 

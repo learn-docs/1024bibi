@@ -1,14 +1,16 @@
 ---
 title: 熬夜7天，我总结了JavaScript与ES的25个重要知识点！
-date: 2020-09-15 23:38:44
 tags:
-	- JavaScript
-	- ES
+  - JavaScript
+  - ES
 categories:
-	- 掘金
-keywords: "JavaScript"
-description: "熬夜7天，我总结了JavaScript与ES的25个重要知识点!"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: JavaScript
+description: 熬夜7天，我总结了JavaScript与ES的25个重要知识点!
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 84c2c41c
+date: 2020-09-15 23:38:44
 top_img:
 ---
 ## 前言

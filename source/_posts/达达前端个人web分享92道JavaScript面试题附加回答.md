@@ -1,13 +1,14 @@
 ---
 title: 达达前端个人web分享92道JavaScript面试题附加回答
-date: 2021-01-03 23:18:44
 tags:
-	- Web
-	- JavaScript
+  - Web
+  - JavaScript
 categories:
-	- 掘金
-keywords: "Web,JavaScript"
-description: "达达前端个人web分享92道JavaScript面试题附加回答"
+  - 掘金
+keywords: 'Web,JavaScript'
+description: 达达前端个人web分享92道JavaScript面试题附加回答
+abbrlink: 584cac3e
+date: 2021-01-03 23:18:44
 cover:
 top_img:
 ---

@@ -1,13 +1,14 @@
 ---
 title: 面试官问我Chrome浏览器的渲染原理（6000字长文）
-date: 2020-12-14 23:32:08
 tags:
-	- Chrome
-	- 浏览器
+  - Chrome
+  - 浏览器
 categories:
-	- 掘金
-keywords: "Chrome"
-description: "面试官问我Chrome浏览器的渲染原理"
+  - 掘金
+keywords: Chrome
+description: 面试官问我Chrome浏览器的渲染原理
+abbrlink: 1757f169
+date: 2020-12-14 23:32:08
 cover:
 top_img:
 ---

@@ -1,14 +1,16 @@
 ---
 title: JS前端技术类文章
-date: 2021-10-30 09:32:20
 tags:
-	- JS
-	- ES
+  - JS
+  - ES
 categories:
-	- 掘金
-keywords: "JS"
-description: "JS前端技术类文章"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: JS
+description: JS前端技术类文章
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 22f6a66b
+date: 2021-10-30 09:32:20
 top_img:
 ---
 

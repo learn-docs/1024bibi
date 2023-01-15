@@ -1,14 +1,16 @@
 ---
 title: 力扣 (LeetCode)-14. 最长公共前缀
-date: 2021-03-13 00:52:30
 tags:
-	- LeetCode
-	- 算法
+  - LeetCode
+  - 算法
 categories:
-	- 掘金
-keywords: "LeetCode"
+  - 掘金
+keywords: LeetCode
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 9bc463ff
+date: 2021-03-13 00:52:30
 description:
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
 top_img:
 ---
 

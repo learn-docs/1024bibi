@@ -1,13 +1,14 @@
 ---
 title: 记录一次BAT一线互联网公司前端JavaScript面试
-date: 2020-03-14 22:51:04
 tags:
-	- JavaScript
-	- 面试
+  - JavaScript
+  - 面试
 categories:
-	- 掘金
-keywords: "JavaScript,面试"
-description: "一次BAT一线互联网公司前端JavaScript面试"
+  - 掘金
+keywords: 'JavaScript,面试'
+description: 一次BAT一线互联网公司前端JavaScript面试
+abbrlink: 2d4a155f
+date: 2020-03-14 22:51:04
 cover:
 top_img:
 ---

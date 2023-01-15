@@ -1,14 +1,16 @@
 ---
 title: HTML5中的拖放功能
-date: 2021-01-28 23:04:33
 tags:
-	- HTML5
-	- 拖放
+  - HTML5
+  - 拖放
 categories:
-	- 掘金
-keywords: "HTML5"
-description: "HTML5中的拖放功能"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: HTML5
+description: HTML5中的拖放功能
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: ab0828b4
+date: 2021-01-28 23:04:33
 top_img:
 ---
 

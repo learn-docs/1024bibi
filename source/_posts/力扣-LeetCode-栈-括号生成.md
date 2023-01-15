@@ -1,14 +1,16 @@
 ---
 title: '力扣 (LeetCode)-栈,括号生成'
-date: 2021-03-06 00:44:24
 tags:
-	- LeetCode
-	- 算法
+  - LeetCode
+  - 算法
 categories:
-	- 掘金
-keywords: "LeetCode"
-description: "栈,括号生成"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: LeetCode
+description: '栈,括号生成'
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 50385b97
+date: 2021-03-06 00:44:24
 top_img:
 ---
 

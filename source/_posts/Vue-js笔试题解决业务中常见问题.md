@@ -1,14 +1,16 @@
 ---
 title: Vue.js笔试题解决业务中常见问题
-date: 2021-01-12 23:15:10
 tags:
-	- Vue
-	- 面试
+  - Vue
+  - 面试
 categories:
-	- 掘金
-keywords: "Vue"
-description: "Vue.js笔试题解决业务中常见问题"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: Vue
+description: Vue.js笔试题解决业务中常见问题
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 9fbc6361
+date: 2021-01-12 23:15:10
 top_img:
 ---
 

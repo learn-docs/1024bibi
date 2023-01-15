@@ -1,14 +1,16 @@
 ---
 title: localStorage和sessionStorage本地存储
-date: 2021-01-30 23:01:37
 tags:
-	- localStorage
-	- sessionStorage
+  - localStorage
+  - sessionStorage
 categories:
-	- 掘金
-keywords: "localStorage,sessionStorage"
-description: "localStorage和sessionStorage本地存储"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: 'localStorage,sessionStorage'
+description: localStorage和sessionStorage本地存储
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 60473b7d
+date: 2021-01-30 23:01:37
 top_img:
 ---
 

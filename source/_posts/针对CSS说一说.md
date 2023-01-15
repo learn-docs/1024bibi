@@ -1,13 +1,15 @@
 ---
 title: 针对CSS说一说
-date: 2021-03-05 00:51:37
 tags:
-	- CSS
+  - CSS
 categories:
-	- 掘金
-keywords: "CSS"
-description: "CSS"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: CSS
+description: CSS
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 57ee0788
+date: 2021-03-05 00:51:37
 top_img:
 ---
 

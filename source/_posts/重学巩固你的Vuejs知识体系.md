@@ -1,13 +1,15 @@
 ---
 title: 重学巩固你的Vuejs知识体系
-date: 2020-04-07 23:28:09
 tags:
-	- Vue
+  - Vue
 categories:
-	- 掘金
-keywords: "Vue"
-description: "学巩固你的Vuejs知识体系"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: Vue
+description: 学巩固你的Vuejs知识体系
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 3d29ed67
+date: 2020-04-07 23:28:09
 top_img:
 ---
 ## 前沿

@@ -1,13 +1,15 @@
 ---
 title: 后端逆袭，一份不可多得的PHP学习指南
-date: 2020-09-23 23:50:14
 tags:
-	- PHP
+  - PHP
 categories:
-	- 掘金
-keywords: "PHP"
-description: "一份不可多得的PHP学习指南"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: PHP
+description: 一份不可多得的PHP学习指南
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 5042cbc4
+date: 2020-09-23 23:50:14
 top_img:
 ---
 

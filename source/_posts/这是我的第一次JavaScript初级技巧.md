@@ -1,13 +1,15 @@
 ---
 title: 这是我的第一次JavaScript初级技巧
-date: 2021-02-16 22:55:00
 tags:
-	- JavaScript
+  - JavaScript
 categories:
-	- 掘金
-keywords: "JavaScript"
-description: "这是我的第一次JavaScript初级技巧"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: JavaScript
+description: 这是我的第一次JavaScript初级技巧
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 159abc5a
+date: 2021-02-16 22:55:00
 top_img:
 ---
 

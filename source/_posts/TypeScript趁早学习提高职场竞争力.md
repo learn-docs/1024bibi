@@ -1,13 +1,15 @@
 ---
 title: TypeScript趁早学习提高职场竞争力
-date: 2021-04-12 10:16:10
 tags:
-	- TypeScript
+  - TypeScript
 categories:
-	- 掘金
-keywords: "TypeScript"
-description: "TypeScript趁早学习提高职场竞争力"
-cover: https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7dae4478722a4703a8e9e07cd80328d4~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: TypeScript
+description: TypeScript趁早学习提高职场竞争力
+cover: >-
+  https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7dae4478722a4703a8e9e07cd80328d4~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 7048a9f3
+date: 2021-04-12 10:16:10
 top_img:
 ---
 

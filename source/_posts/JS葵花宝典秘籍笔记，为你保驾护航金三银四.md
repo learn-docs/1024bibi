@@ -1,14 +1,16 @@
 ---
 title: JS葵花宝典秘籍笔记，为你保驾护航金三银四
-date: 2021-04-16 08:34:59
 tags:
-	- JavaScript
-	- 面试
+  - JavaScript
+  - 面试
 categories:
-	- 掘金
-keywords: "JS葵花宝典秘籍笔记，为你保驾护航金三银四"
-description: "JS葵花宝典秘籍笔记，为你保驾护航金三银四"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a2df0d96e70426999600f22db443b2d~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: JS葵花宝典秘籍笔记，为你保驾护航金三银四
+description: JS葵花宝典秘籍笔记，为你保驾护航金三银四
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a2df0d96e70426999600f22db443b2d~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 7d7073eb
+date: 2021-04-16 08:34:59
 top_img:
 ---
 

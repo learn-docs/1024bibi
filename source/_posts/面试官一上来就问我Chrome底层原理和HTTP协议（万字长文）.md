@@ -1,13 +1,14 @@
 ---
 title: 面试官一上来就问我Chrome底层原理和HTTP协议（万字长文）
-date: 2020-11-30 23:34:07
 tags:
-	- Chrome
-	- HTTP
+  - Chrome
+  - HTTP
 categories:
-	- 掘金
-keywords: "HTTP,Chrome"
-description: "面试官一上来就问我Chrome底层原理和HTTP协议"
+  - 掘金
+keywords: 'HTTP,Chrome'
+description: 面试官一上来就问我Chrome底层原理和HTTP协议
+abbrlink: 7b39f51a
+date: 2020-11-30 23:34:07
 cover:
 top_img:
 ---

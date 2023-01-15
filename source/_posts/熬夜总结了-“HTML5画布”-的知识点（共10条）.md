@@ -1,14 +1,16 @@
 ---
 title: 熬夜总结了 “HTML5画布” 的知识点（共10条）
-date: 2020-07-31 23:40:54
 tags:
-	- HTML5
-	- 画布
+  - HTML5
+  - 画布
 categories:
-	- 掘金
-keywords: "HTML5画布"
-description: "熬夜总结了 “HTML5画布” 的知识点"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: HTML5画布
+description: 熬夜总结了 “HTML5画布” 的知识点
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: 425a6c9d
+date: 2020-07-31 23:40:54
 top_img:
 ---
 ## 前言

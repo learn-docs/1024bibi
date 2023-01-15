@@ -1,17 +1,19 @@
 ---
 title: HTTP/HTTPS/HTTP2/DNS/TCP/经典题
-date: 2020-05-20 23:48:23
 tags:
-	- HTTP
-	- HTTPS
-	- HTTP2
-	- DNS
-	- TCP
+  - HTTP
+  - HTTPS
+  - HTTP2
+  - DNS
+  - TCP
 categories:
-	- 掘金
-keywords: "HTTP,TCP"
-description: "HTTP/HTTPS/HTTP2/DNS/TCP/经典题"
-cover: https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+  - 掘金
+keywords: 'HTTP,TCP'
+description: HTTP/HTTPS/HTTP2/DNS/TCP/经典题
+cover: >-
+  https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe22fe0d371945a6b707aade6e8ce07e~tplv-k3u1fbpfcp-watermark.image
+abbrlink: b3a1182c
+date: 2020-05-20 23:48:23
 top_img:
 ---
 
