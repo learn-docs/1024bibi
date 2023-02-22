@@ -27,8 +27,9 @@ nofollow:
 # Hexo Github Canlendar
 # Author: Ice Kano
 # Modify: Lete乐特
+
 githubcalendar:
-  enable: true
+  enable: false
   enable_page: /
   user: webVueBlog
   layout:
@@ -44,34 +45,34 @@ githubcalendar:
   calendar_js: https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
   plus_style: ""
 
-# magnet:
-#   enable: true
-#   priority: 1
-#   enable_page: /
-#   type: categories
-#   devide: 2
-#   display:
-#     - name: LeetCode
-#       display_name: LeetCode
-#       icon: 📚
-#     - name: 前端
-#       display_name: 前端
-#       icon: 💻
-#   color_setting:
-#     text_color: black
-#     text_hover_color: white
-#     background_color: "#f2f2f2"
-#     background_hover_color: "#2B85E4"
-#   layout:
-#     type: id
-#     name: recent-posts
-#     index: 0
-#   temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
-#   plus_style: ""
+magnet:
+  enable: false
+  priority: 1
+  enable_page: /
+  type: categories
+  devide: 2
+  display:
+    - name: LeetCode
+      display_name: LeetCode
+      icon: 📚
+    - name: 前端
+      display_name: 前端
+      icon: 💻
+  color_setting:
+    text_color: black
+    text_hover_color: white
+    background_color: "#f2f2f2"
+    background_hover_color: "#2B85E4"
+  layout:
+    type: id
+    name: recent-posts
+    index: 0
+  temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
+  plus_style: ""
 
 electric_clock:
   priority: 5
-  enable: true
+  enable: false
   enable_page: /
   layout:
     type: class
@@ -92,7 +93,7 @@ history_calendar:
 # Artitalk
 # see https://artitalk.js.org/
 artitalk:
-  enable: true
+  enable: false
   appId: hABQ1RvFThtkBVgN74RFetvx-MdYXbMMI
   appKey: njSc7kuSADvblzVhqIbJzprN
   path: artitalk
