@@ -1,0 +1,219 @@
+/* 全局样式 */
+body {
+  /* font-family: Arial, sans-serif; */
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* 头部样式 */
+header {
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  border-bottom: 1px solid #cccccc;
+}
+
+/* 设置导航栏样式 */
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #283593;
+  height: 80px;
+  position: relative;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 20px;
+  padding: 15px;
+  display: block;
+}
+
+nav li:hover>a {
+  background-color: #1a237e;
+}
+
+
+/* 设置标题样式 */
+header h1 {
+  margin: 0;
+  padding: 30px 0;
+  text-align: center;
+  font-size: 40px;
+  color: #333;
+}
+
+/* 动画效果 */
+nav li a i {
+  margin-right: 5px;
+}
+
+nav li a:hover i {
+  animation: rotate 1s ease-in-out infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  50% {
+    transform: rotate(180deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#services-dropdown-btn i {
+  transition: all 0.3s ease-out;
+}
+
+#services-dropdown-btn:hover i {
+  transform: rotate(180deg);
+}
+
+/* 设置响应式样式 */
+@media screen and (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    height: auto;
+  }
+
+  nav ul {
+    width: 100%;
+    flex-direction: column;
+    display: none;
+  }
+
+  nav li {
+    width: 100%;
+    text-align: center;
+  }
+
+  nav li a {
+    width: 100%;
+    padding: 10px;
+    border-top: 1px solid #FFF;
+    border-bottom: 1px solid #EEE;
+  }
+
+  nav ul.open {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* 主体内容 */
+#case-studies {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.case-study {
+  padding: 20px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+.case-study:hover {
+  transform: scale(1.02);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+.case-study h3 {
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+.case-study img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.case-study p {
+  margin: 0 0 20px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.case-study ul {
+  margin-bottom: 20px;
+}
+
+.case-study li {
+  margin-bottom: 10px;
+}
+
+.case-study blockquote {
+  margin: 0;
+  padding: 20px;
+  font-size: 1.2rem;
+  border-left: 5px solid #555;
+}
+
+
+/* 底部样式 */
+footer {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* 响应式设计 */
+@media screen and (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav li {
+    margin: 10px 0;
+  }
+
+  #services-dropdown {
+    position: static;
+    display: none;
+  }
+
+  #services-dropdown-btn {
+    margin-left: 20px;
+  }
+
+  #services-dropdown-btn:hover+#services-dropdown {
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 5px 15px 1px rgba(0, 0, 0, 0.2);
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+  .services-grid,
+  .case-studies-grid,
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+}

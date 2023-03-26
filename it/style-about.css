@@ -1,0 +1,267 @@
+/* 全局样式 */
+body {
+	background-color: #f5f5f5;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* 头部样式 */
+header {
+	top: 0;
+	left: 0;
+	right: 0;
+	background-color: #ffffff;
+	border-bottom: 1px solid #cccccc;
+}
+
+/* 设置导航栏样式 */
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #283593;
+	height: 80px;
+	position: relative;
+}
+
+nav li a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 20px;
+	padding: 15px;
+	display: block;
+}
+
+nav li:hover>a {
+	background-color: #1a237e;
+}
+
+/* 设置标题样式 */
+header h1 {
+	margin: 0;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 40px;
+	color: #333;
+}
+
+/* 动画效果 */
+nav li a i {
+	margin-right: 5px;
+}
+
+nav li a:hover i {
+	animation: rotate 1s ease-in-out infinite;
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	50% {
+		transform: rotate(180deg);
+	}
+
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+#services-dropdown-btn i {
+	transition: all 0.3s ease-out;
+}
+
+#services-dropdown-btn:hover i {
+	transform: rotate(180deg);
+}
+
+/* 设置响应式样式 */
+@media screen and (max-width: 768px) {
+	nav {
+		flex-direction: column;
+		height: auto;
+	}
+
+	nav ul {
+		width: 100%;
+		flex-direction: column;
+		display: none;
+	}
+
+	nav li {
+		width: 100%;
+		text-align: center;
+	}
+
+	nav li a {
+		width: 100%;
+		padding: 10px;
+		border-top: 1px solid #FFF;
+		border-bottom: 1px solid #EEE;
+	}
+
+	nav ul.open {
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+/* 联系我们页面样式 */
+.contact-section {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 50px 20px;
+	text-align: center;
+}
+
+.contact-section h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+.contact-section p {
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+.contact-section form label {
+	display: block;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+.contact-section form input,
+.contact-section form textarea {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+.contact-section form button[type="submit"] {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	font-size: 16px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.contact-section form button[type="submit"]:hover,
+.contact-section form button[type="submit"]:focus {
+	background-color: #3e8e41;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	margin-top: 50px;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.image-container {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.image-container img {
+	max-width: 100%;
+	height: auto;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+
+.contact-info {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+}
+
+.info-item {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+}
+
+.info-item i {
+	font-size: 25px;
+	color: #333;
+	min-width: 40px;
+	margin-right: 20px;
+}
+
+.info-text {
+	font-size: 18px;
+	color: #777;
+}
+
+
+/* 底部样式 */
+footer {
+	background-color: #333333;
+	color: #ffffff;
+	padding: 20px;
+	text-align: center;
+}
+
+/* 响应式设计 */
+@media screen and (max-width: 768px) {
+	nav ul {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	nav li {
+		margin: 10px 0;
+	}
+
+	#services-dropdown {
+		position: static;
+		display: none;
+	}
+
+	#services-dropdown-btn {
+		margin-left: 20px;
+	}
+
+	#services-dropdown-btn:hover+#services-dropdown {
+		display: block;
+		position: absolute;
+		top: 50px;
+		left: 0;
+		background-color: #ffffff;
+		box-shadow: 0px 5px 15px 1px rgba(0, 0, 0, 0.2);
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+
+	.services-grid,
+	.case-studies-grid,
+	.team-grid {
+		grid-template-columns: 1fr;
+	}
+}

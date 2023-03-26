@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>联系我们 - 软件开发网站</title>
+		<meta name="description" content="请填写联系表格，我们将尽快回复您。">
+		<meta name="keywords" content="联系我们">
+		<meta name="author" content="你的名字">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" href="style-about.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	</head>
+	<body>
+		<header>
+			<h1>欢迎来到我们的软件开发网站</h1>
+			<nav>
+				<ul>
+					<li><a href="index.html"><i class="fas fa-home"></i> 首页</a></li>
+					<li><a href="serve.html"><i class="fas fa-cogs"></i> 服务</a></li>
+					<li><a href="pro.html"><i class="fas fa-book-open"></i> 客户案例</a></li>
+					<li><a href="blog.html"><i class="fas fa-blog"></i> 博客</a></li>
+					<li class="active"><a href="about.html"><i class="fas fa-phone"></i> 联系我们</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main>
+			<section class="contact-section">
+				<h2>联系我们</h2>
+				<p>您可以填写以下表格或通过以下方式与我们联系:</p>
+
+				<div class="contact-info">
+					<div class="info-item">
+						<i class="fas fa-map-marker-alt"></i>
+						<div class="info-text">地址：某某街道123号</div>
+					</div>
+
+					<div class="info-item">
+						<i class="fas fa-envelope"></i>
+						<div class="info-text">邮箱：xxx@xxx.com</div>
+					</div>
+
+					<div class="info-item">
+						<i class="fas fa-phone"></i>
+						<div class="info-text">微信：xiaoda0423</div>
+					</div>
+				</div>
+
+				<form action="#" method="post">
+					<label for="name">姓名</label>
+					<input type="text" id="name" name="name" required>
+
+					<label for="email">电子邮件</label>
+					<input type="email" id="email" name="email" required>
+
+					<label for="message">留言</label>
+					<textarea id="message" name="message" required></textarea>
+
+					<button type="submit">提交</button>
+				</form>
+
+				<div class="video-container">
+					<iframe src="//player.bilibili.com/player.html?aid=561816060&bvid=BV1ue4y1e7WH&cid=869752798&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+				</div>
+
+				<div class="image-container">
+					<img src="https://picsum.photos/1200/800" alt="联系我们" />
+				</div>
+			</section>
+		</main>
+
+		<footer>
+			<p>&copy; 2023 软件开发网站。保留所有权利。</p>
+		</footer>
+
+		<script src="script-about.js"></script>
+	</body>
+</html>

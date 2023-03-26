@@ -21,6 +21,7 @@ menu:
     HTML5Canvas: /HTML5Canvas/index.html || fa fa-grav
     个人作品: /work/index.html || fa fa-free-code-camp
     开发规范: /work/dist/index.html || fa fa-free-code-camp
+	软件开发: /it/index.html || fa fa-free-code-camp
 
     # Movie: /movies/ || fas fa-video
 

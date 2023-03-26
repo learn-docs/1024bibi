@@ -1,0 +1,230 @@
+/* 全局样式 */
+body {
+  /* font-family: Arial, sans-serif; */
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* 头部样式 */
+header {
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  border-bottom: 1px solid #cccccc;
+}
+
+/* 设置导航栏样式 */
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #283593;
+  height: 80px;
+  position: relative;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 20px;
+  padding: 15px;
+  display: block;
+}
+
+nav li:hover>a {
+  background-color: #1a237e;
+}
+
+
+/* 设置标题样式 */
+header h1 {
+  margin: 0;
+  padding: 30px 0;
+  text-align: center;
+  font-size: 40px;
+  color: #333;
+}
+
+/* 动画效果 */
+nav li a i {
+  margin-right: 5px;
+}
+
+nav li a:hover i {
+  animation: rotate 1s ease-in-out infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  50% {
+    transform: rotate(180deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#services-dropdown-btn i {
+  transition: all 0.3s ease-out;
+}
+
+#services-dropdown-btn:hover i {
+  transform: rotate(180deg);
+}
+
+/* 设置响应式样式 */
+@media screen and (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    height: auto;
+  }
+
+  nav ul {
+    width: 100%;
+    flex-direction: column;
+    display: none;
+  }
+
+  nav li {
+    width: 100%;
+    text-align: center;
+  }
+
+  nav li a {
+    width: 100%;
+    padding: 10px;
+    border-top: 1px solid #FFF;
+    border-bottom: 1px solid #EEE;
+  }
+
+  nav ul.open {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* 服务部分 */
+.services {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+}
+
+.service-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.service-card {
+  width: 300px;
+  margin: 20px;
+  padding: 30px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+}
+
+.service-card i {
+  font-size: 50px;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.service-card h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.service-card p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* 响应式布局 */
+@media (max-width: 768px) {
+  .service-card {
+    width: 100%;
+  }
+}
+
+/* 动画效果 */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+/* 底部样式 */
+footer {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    padding: 0 10px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  .service-cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  li+li {
+    margin-left: 20px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  .service-card i {
+    font-size: 36px;
+  }
+}
